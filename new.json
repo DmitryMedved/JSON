@@ -1,8 +1,8 @@
 {
-"name": "Dmitry",
-"sername": "Medved",
+"first_name": "Dmitry",
+"last_name": "Medved",
 "age": "38",
-"number of pets": "null",
-"future desired salary": "1000"
+"number_of_pets": "null",
+"future_desired_salary": "1000"
 }
 
