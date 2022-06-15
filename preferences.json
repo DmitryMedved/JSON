@@ -1,6 +1,7 @@
 {
-"favorite movie": "Taxi",
-"favourite TV show": "Dr. House",
-"favorite food": "Pizza",
-"favorite time of the year": "summer",
-"country you would like to visit": "USA"
+"favorite_movie": "Taxi",
+"favourite_TV_show": "Dr.House",
+"favorite_food": "Pizza",
+"favorite_time_of_the_year": "summer",
+"country_you_would_like_to_visit": "USA"
+}
