@@ -1,1 +1,14 @@
-Hello
+{
+"bug_report": "Number_1",
+"Project": "www.ameno.ru",
+"Sammary": "Search in the dream book on the main page, using Russian words, does not work correctly",
+"Number_version": "0.0001",
+"Severity": "Major",
+"Priority": "Medium",
+"Status": "New",
+"Reporter": "Dmitry Medved",
+"Assign to": "Alex Bulat",
+"Steps to reproduce": "1. Open main ",
+"Actual result": "The request was not validated",
+"Expected Result": "The search was successful, the description of the desired dream is shown correctly"
+}
