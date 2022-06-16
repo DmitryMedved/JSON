@@ -7,8 +7,8 @@
 "Priority": "Medium",
 "Status": "New",
 "Reporter": "Dmitry Medved",
-"Assign to": "Alex Bulat",
-"Steps to reproduce": "1. Open main ",
-"Actual result": "The request was not validated",
-"Expected Result": "The search was successful, the description of the desired dream is shown correctly"
+"Assign_to": "Alex Bulat",
+"Steps_to_reproduce": ["1. Open the main page of the site: http://www.ameno.ru/. At the bottom of the page we find the section: DREAM BOOK", "2. Enter a search term, such as "night", "3. Click the "Find" button"],
+"Actual_result": "The request was not validated",
+"Expected_Result": "The search was successful, the description of the desired dream is shown correctly"
 }
